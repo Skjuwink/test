@@ -16,6 +16,7 @@ import java.util.stream.IntStream;
  */
 public class TestGeneratorBll implements IntSupplier{
     
+    private int jj = 1;
     private int i = 1;
     
     @Override
